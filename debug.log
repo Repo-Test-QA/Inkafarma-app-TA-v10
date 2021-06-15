@@ -1,0 +1,5 @@
+[0709/113609.205:ERROR:exception_handler_server.cc(527)] ConnectNamedPipe: Se está cerrando la canalización. (0xE8)
+[0913/153313.796:ERROR:process_info.cc(359)] UncheckedAllocate
+[0913/153341.696:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Qsystem\AppData\Local\Temp\scoped_dir36972_30907\Crashpad\reports\a4bf80ec-1186-4365-8d1e-e23cf2e3f9cc.dmp: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso. (0x20)
+[0913/163121.448:ERROR:process_info.cc(359)] UncheckedAllocate
+[0913/163220.842:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Qsystem\AppData\Local\Temp\scoped_dir5356_30769\Crashpad\reports\7242c46b-a77a-4dfa-964a-936dfccb8dda.dmp: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso. (0x20)
