@@ -22,6 +22,7 @@ public class Hook {
 
 	private static WebDriver driver;
 
+
 	@Before("@WEB2")
 	public WebDriver setUp()
 	{

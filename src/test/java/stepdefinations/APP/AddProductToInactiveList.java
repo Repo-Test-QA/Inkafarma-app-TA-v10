@@ -78,32 +78,6 @@ public class AddProductToInactiveList {
         WebElement txtSearch = driver.findElement(By.id("com.globant.inkafarma.qa:id/search_src_text"));
         txtSearch.sendKeys(product);
 
-        /*
-        sleep(4000);
-        try {
-            Robot robot = new Robot();
-            robot.mouseMove(219, 362);
-            robot.mousePress(InputEvent.BUTTON1_DOWN_MASK);
-            robot.mouseRelease(InputEvent.BUTTON1_MASK);
-
-        } catch (AWTException e) {
-            e.printStackTrace();
-        }
-        */
-
-        /*
-        try {
-            Robot robot = new Robot();
-            robot.mouseMove(807, 172);
-            robot.keyPress(KeyEvent.VK_ENTER);
-            robot.keyRelease(KeyEvent.VK_ENTER);
-
-        } catch (AWTException e) {
-            e.printStackTrace();
-        }
-        */
-
-
         //sleep(6000);
         //No realiza el enter y se cae.
         //txtSearch.sendKeys(Keys.ENTER);

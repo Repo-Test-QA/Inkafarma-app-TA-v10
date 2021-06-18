@@ -25,7 +25,7 @@ import java.io.File;
 //                    ,tags ={"@A02"}  	//  "@appium,@sc02","~@sc01 "
 //                    ,tags ={"@WEB3,@SC01,@SC02,@SC03","~@SC04","~@SC05"}  	//  "@appium,@sc02","~@sc01 "
 //                    ,tags ={"@web1,@SC01","~@SC04"}  	//  "@appium,@sc02","~@sc01 "
-		,tags ={"@appium3,@A04"} //@A02,@A03
+		,tags ={"@appium3,@A05"} //@A02,@A03
 //					  ,tags ={"@WEB2,@W03"}
 )
 @Test
